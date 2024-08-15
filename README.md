@@ -12,4 +12,7 @@ npm install
 npm run dev
 ```
 
-## Acabou
+### acessar aplicação
+```sh
+localhost:3000
+```
